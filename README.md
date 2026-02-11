@@ -14,7 +14,7 @@ Backend Developer focused on building scalable REST APIs and automation framewor
 
 ### Hospital Appointment Management System
 - JWT Authentication
-- Role-based access
+- Role based access
 - REST APIs
 - Clean layered architecture
 
