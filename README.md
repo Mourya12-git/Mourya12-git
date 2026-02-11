@@ -1,16 +1,28 @@
-## Hi there 👋
+# Mourya Sripadha
 
-<!--
-**Mourya12-git/Mourya12-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building scalable REST APIs and automation frameworks using Python.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- Django & Django REST Framework
+- MySQL
+- Selenium
+- PyTest
+- GitHub Actions (CI/CD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Hospital Appointment Management System
+- JWT Authentication
+- Role-based access
+- REST APIs
+- Clean layered architecture
+
+### Selenium Python E2E Framework
+- Page Object Model
+- PyTest fixtures
+- Modular test structure
+- HTML Reports
+
+## Contact
+- Email: mouryasripadha@gmail.com
